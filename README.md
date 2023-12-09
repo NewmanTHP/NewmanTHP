@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Ph.D.
+- 🌱 I’m currently developping Bayesian inversion models.
+
+https://www.lancaster.ac.uk/stor-i/about-us/people/thomas-newman
+
 <!--
 **NewmanTHP/NewmanTHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
