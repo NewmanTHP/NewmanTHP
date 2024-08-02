@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bayesian inversion modelling**
 
-- 🌱 I’m currently developping **gradient-based MCMCs and non-linear state-space models**
+- 🌱 I’m focusing my research on **gradient-based MCMCs and non-linear state-space models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
