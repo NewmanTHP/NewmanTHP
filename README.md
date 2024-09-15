@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas Newman</h1>
 <h3 align="center">Ph.D. student in Bayesian Computational Statistics</h3>
 
-- 🔭 I’m currently working on **Bayesian inversion modelling**
+- 🔭 I’m currently working on **Bayesian inversion modelling** and **Computational Fluid Dynamics** models
 
-- 🌱 I’m focusing my research on **gradient-based MCMCs and non-linear state-space models**
+- 🌱 I’m focusing my research on **gradient-based MCMCs, non-linear state-space models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
