@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bayesian Inversion Modelling** and **Machine Learning Surrogate Modelling** of computational fluid dynamics models
 
-- 🌱 I’m focusing my research on **gradient-based MCMCs, non-linear state-space, and diffusion models** (inversion); and **numerical solvers, and surrogate models** (CDF)
+- 🌱 I’m focusing my research on **gradient-based MCMCs and non-linear state-space models** (inversion); and **numerical solvers and deep neural network models** (CDF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
