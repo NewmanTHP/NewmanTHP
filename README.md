@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Newman</h1>
 <h3 align="center">Ph.D. student in Bayesian Computational Statistics</h3>
 
-- 🔭 I’m currently working on **Bayesian Inversion Modelling** and **Machine Learning Surrogate Modelling** of computational fluid dynamics models
+- 🔭 I’m currently working on **Bayesian Inversion Modelling** and **Machine Learning Surrogate Modelling** of computational fluid dynamics
 
 - 🌱 I’m focusing my research on **gradient-based MCMCs and non-linear state-space models** (inversion); and **numerical solvers and deep neural network models** (CDF)
 
