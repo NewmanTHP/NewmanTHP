@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Newman</h1>
 
 <h3 align="center">
-Atmospheric Scientist · Machine Learning Researcher · Statistical Modeller
+Machine Learning · Data Science · Statistical Modelling
 </h3>
 
 <p align="center">
@@ -12,78 +12,86 @@ Atmospheric Scientist · Machine Learning Researcher · Statistical Modeller
 
 ### 👨‍💻 About Me
 
-I'm an atmospheric scientist and machine learning researcher working at the intersection of **statistics, machine learning, and Earth observation**.
+I'm a **Machine Learning and Data Scientist** with a PhD in statistical modelling and experience developing ML models, data pipelines and computational methods for large-scale, complex datasets.
 
-I currently work on satellite-based detection and quantification of **methane emissions**, developing machine learning methods and scalable data pipelines for analysing global atmospheric observations.
+I enjoy solving problems where **machine learning, statistics and engineering come together** — from developing models and designing experiments to building reliable pipelines and turning research ideas into working systems.
 
-I recently completed a PhD in **Probabilistic Inversion Modelling**, where I developed Bayesian and machine learning approaches for estimating the location and strength of gas emission sources from atmospheric measurements.
+My technical interests include:
 
-My interests sit broadly around:
+- 🤖 Machine Learning & Deep Learning
+- 📊 Statistical & Probabilistic Modelling
+- ⚙️ ML Pipelines & Scientific Computing
+- 🔬 Model Development & Evaluation
+- 📈 Large-Scale Data Analysis
+- 🧮 Optimisation & Uncertainty Quantification
 
-- 🤖 **Machine Learning & Deep Learning**
-- 📊 **Statistical Modelling & Bayesian Inference**
-- 🛰️ **Remote Sensing & Earth Observation**
-- 🌍 **Climate & Environmental Data Science**
-- ⚙️ **ML Pipelines & Scientific Computing**
-- 🔬 **Uncertainty Quantification & Probabilistic Modelling**
+My current work involves large-scale satellite data, but my interests in **machine learning, statistical modelling and data-intensive systems are domain-agnostic**.
 
-### 🔭 Current Work
+### 🔭 What I Work On
 
-At [SRON Netherlands Institute for Space Research](https://www.sron.nl/), I develop machine learning methods for large-scale detection of methane emission sources using **Sentinel-5P TROPOMI** satellite data.
+In my current role, I develop machine learning methods and automated data-processing pipelines for large-scale observational datasets.
 
-My work includes:
+My work involves:
 
-- Developing ML models for automated methane plume detection and classification
-- Processing large-scale satellite observations and geospatial datasets
-- Building and improving automated detection pipelines
-- Applying statistical and machine learning methods to noisy atmospheric measurements
-- Evaluating model performance and improving operational detection systems
-- Working with international scientific and environmental stakeholders
+- Developing and evaluating ML models
+- Designing automated data-processing pipelines
+- Working with large, high-dimensional datasets
+- Feature engineering and model optimisation
+- Statistical analysis and uncertainty quantification
+- Deploying and maintaining research software
+- Working with HPC and Linux-based environments
 
-### 🧠 Research Background
+Previously, during my PhD, I developed computational statistical methods for complex inverse problems, combining **Bayesian inference, MCMC, sequential Monte Carlo, machine learning and numerical simulation**.
 
-My PhD focused on **probabilistic inversion modelling of gas emissions**.
+### 🧠 Technical Interests
 
-I developed Bayesian computational methods for estimating emission source parameters from atmospheric concentration measurements, including:
+**Machine Learning**  
+Deep Learning · Classification · Regression · Feature Engineering · Model Evaluation · XGBoost
 
-- Gradient-based **MCMC** methods
-- **Sequential Monte Carlo / particle filtering**
-- Bayesian inverse problems
-- Non-linear state-space models
-- Uncertainty quantification
-- Statistical surrogate modelling
-- Computational fluid dynamics
-- Deep learning for atmospheric transport modelling
+**Statistics & Modelling**  
+Bayesian Inference · MCMC · Sequential Monte Carlo · Probabilistic Modelling · Uncertainty Quantification · Optimisation
 
-I particularly enjoy problems where **statistical modelling, machine learning and physical understanding need to work together**.
+**Data & Computing**  
+Large-Scale Data Processing · Scientific Computing · HPC · Linux · Data Pipelines
 
-### 🛠️ Technologies & Tools
+**Software**  
+Python · PyTorch · JAX · scikit-learn · TensorFlow · pandas · NumPy · SciPy · xarray · Git
+
+### 🛠️ Technologies
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://jax.readthedocs.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" alt="JAX" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://jax.readthedocs.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" alt="JAX" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>
 </p>
-
-**Machine Learning:** PyTorch · TensorFlow · scikit-learn · XGBoost  
-**Scientific Computing:** Python · JAX · NumPy · SciPy · xarray  
-**Statistics:** Bayesian inference · MCMC · Sequential Monte Carlo · Statistical modelling  
-**Data:** pandas · geospatial data · satellite observations · large-scale scientific datasets  
-**Other:** Git · Linux · HPC · CFD
-
-### 📚 Selected Interests
-
-`Machine Learning` `Deep Learning` `Bayesian Statistics` `Probabilistic Modelling`  
-`Remote Sensing` `Earth Observation` `Atmospheric Science` `Scientific Computing`  
-`Uncertainty Quantification` `Inverse Problems` `Geospatial Data` `Climate Technology`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newmanthp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### 📌 Current Focus
+
+```text
+Machine Learning
+Statistical Modelling
+Data & ML Pipelines
+Deep Learning
+Probabilistic Methods
+Large-Scale Data
+Scientific Computing
